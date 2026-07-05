@@ -54,7 +54,6 @@ Seeking a Software Tester / QA Engineer position where I can apply my experience
 | Manual Testing | Functional, Regression, Smoke, Exploratory |
 | Automation | Robot Framework, Selenium |
 | API Testing | Postman, Swagger, Bruno |
-| Database | SQL |
 | Bug Tracking | Jira |
 | Programming | Python, Java, C/C++, HTML, CSS |
 | Version Control | Git, GitHub |
