@@ -128,7 +128,7 @@ A manual testing project covering the OrangeHRM application.
 Software_Tester_Portfolio
 │
 ├── Resume
-│   └── Chikanda_Namanee_Resume.pdf
+│   └── Chikanda_Namanee_Software_Tester.pdf
 │
 ├── Test_Plans
 │   ├── SauceDemo
