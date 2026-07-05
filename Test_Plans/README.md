@@ -1,11 +1,11 @@
-# 📋 Test Plans
+# 📋 Test Plans (In Progress)
 
 This folder contains test plans created for manual testing practice projects.
 
 ## Projects
 
-- SauceDemo
-- OrangeHRM
+- SauceDemo (In Progress)
+- OrangeHRM (Planned)
 
 ## Documents Included
 
