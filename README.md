@@ -90,7 +90,7 @@ Worked as part of a QA team performing manual and automated testing for a web ap
 
 ---
 
-### 🛒 SauceDemo Practice Project
+### 🛒 SauceDemo Practice Project (In Progress)
 
 A complete manual testing project for the SauceDemo e-commerce application.
 
@@ -105,7 +105,7 @@ A complete manual testing project for the SauceDemo e-commerce application.
 
 ---
 
-### 👨‍💼 OrangeHRM Practice Project
+### 👨‍💼 OrangeHRM Practice Project (Planned)
 
 A manual testing project covering the OrangeHRM application.
 
