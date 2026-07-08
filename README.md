@@ -24,7 +24,7 @@ This repository showcases my QA projects, test documentation, API testing, SQL p
 - ✅ Manual & Automation Testing
 - ✅ Robot Framework & Selenium
 - ✅ API Testing with Postman
-- ✅ Defect Tracking using Jira
+- ✅ Defect Tracking & Task Management using Jira
 - ✅ Agile / Scrum Experience
 
 ---
@@ -40,10 +40,13 @@ Seeking a Software Tester / QA Engineer position where I can apply my experience
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge)
+![Proxyman](https://img.shields.io/badge/Proxyman-E53935?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -51,12 +54,14 @@ Seeking a Software Tester / QA Engineer position where I can apply my experience
 
 | Category | Skills |
 |----------|--------|
-| Manual Testing | Functional, Regression, Smoke, Exploratory |
+| Manual Testing | Functional, Regression, Smoke |
 | Automation | Robot Framework, Selenium |
-| API Testing | Postman, Swagger, Bruno |
-| Bug Tracking | Jira |
+| API Testing | Postman, Swagger, Bruno, Proxyman |
+| Defect Tracking & Task management | Jira |
 | Programming | Python, Java, C/C++, HTML, CSS |
 | Version Control | Git, GitHub |
+| Database | Firebase |
+| Communication | Microsoft Team |
 
 ---
 
@@ -73,7 +78,7 @@ Worked as part of a QA team performing manual and automated testing for a web ap
 - Executed manual testing
 - Developed Robot Framework automation scripts
 - Reported and tracked defects using Jira
-- Performed API testing with Postman, Bruno, and ProxyMan
+- Performed API testing with Postman, Bruno, and Proxyman
 - Participated in Agile/Scrum ceremonies
 
 **Technologies**
@@ -82,7 +87,7 @@ Worked as part of a QA team performing manual and automated testing for a web ap
 - Jira
 - Postman
 - Bruno
-- ProxyMan
+- Proxyman
 - Git
 - Agile/Scrum
 
@@ -142,12 +147,9 @@ Software_Tester_Portfolio
 │   └── OrangeHRM
 │
 ├── API_Testing
-│   ├── Postman_Collections
-│   └── Test_Report
 │
 ├── Automation
-│   ├── Robot_Framework
-│   └── Selenium
+│   └── Robot_Framework
 │
 └── SQL
     └── Practice_Queries.sql
